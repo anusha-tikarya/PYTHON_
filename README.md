@@ -93,3 +93,7 @@ print(math.sqrt(16))
 
 ### Conclusion
 Python's simplicity and readability make it an excellent choice for both beginners and experienced developers. Its versatility allows it to be used for web development, data analysis, machine learning, automation, and more.
+
+-------------------------------------------------------------
+
+## python3 : REPL = Read evaluate print loop
