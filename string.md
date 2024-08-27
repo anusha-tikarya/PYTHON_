@@ -1,4 +1,5 @@
 ## Strings and Conditional Statements
+```python
 # Different ways to define a string
 str1 = "this is str"
 str1 = 'this is str'
@@ -55,3 +56,4 @@ print(a.find("b"))  # -1
 
 a="asbh abyucdi axsnaI"
 print(a.count("a"))  # 4
+```
