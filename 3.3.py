@@ -1,5 +1,6 @@
 from pyspark.sql import SparkSession
 
+
 # Initialize SparkSession
 spark = SparkSession.builder \
     .appName("Key-Value Pair RDDs Exercise") \
