@@ -1,5 +1,4 @@
-
- ASSIGNMENT
+# ASSIGNMENT
 # 1: Create a Dictionary
 person = {"Name": "Alice", "Age": 25, "City": "New York"}
 print(person)
