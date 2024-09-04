@@ -1,4 +1,5 @@
- #EXERCISES:
+#EXERCISES:
+
 import pandas as pd
 # ### **Exercise 5: Handling Missing Values**
 # 1. Create a DataFrame with missing values:
