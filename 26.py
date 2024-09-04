@@ -1,5 +1,4 @@
-
-ASSIGNMENT : PYTHON 
+# ASSIGNMENT : PYTHON 
 
 # Exercise 1: Create a List
 # Create a list called fruits with the following items: "apple", "banana", "cherry", "date", and "elderberry".
