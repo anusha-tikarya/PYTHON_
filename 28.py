@@ -1,4 +1,4 @@
-```python
+
 import pandas as pd
 
 # Creating a new dataset
@@ -39,4 +39,4 @@ print("\nDataFrame after adding 'Seniority' column:\n", df)
 # Exercise 6: Grouping and Aggregation
 grouped_df = df.groupby("Department")["Annual Salary"].mean().reset_index()
 print("\nAverage salary by department:\n", grouped_df)
-```
+
