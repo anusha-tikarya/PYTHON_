@@ -1,4 +1,4 @@
-```python
+
 ### Exercise 1: List Operations
 numbers = [1, 2, 3, 4, 5]
 numbers.append(6)
@@ -103,4 +103,4 @@ print(letter_counts)
 students = [("Alice", 90), ("Bob", 80), ("Charlie", 85)]
 sorted_students = sorted(students, key=lambda x: x[1], reverse=True)
 print(sorted_students)
-```
+
