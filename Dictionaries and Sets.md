@@ -12,6 +12,7 @@ dict={
 print(dict)  # "name" :"Anu","CGPA"  : 8.9,"marks" : [99,89,78,67],"Subjects" : ('Python' , 'c')
 print(type(dict))  # dict
 
+
 # Accessing values
 print(dict["Subjects"])  # ('Python', 'c')
 dict["name"]="Anusha"
