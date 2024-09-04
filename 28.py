@@ -1,4 +1,3 @@
-
 import pandas as pd
 
 # Creating a new dataset
