@@ -1,7 +1,9 @@
 # *Step 1: Generate the Sample Sales Dataset*
+
 import pandas as pd
 from datetime import datetime
 # Sample sales data
+
 data = {
     "TransactionID": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
     "CustomerID": [101, 102, 103, 101, 104, 102, 103, 104, 101, 105],
