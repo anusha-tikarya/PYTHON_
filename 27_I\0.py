@@ -1,4 +1,3 @@
-```python
 #Exercise 1 Read and print the JSON file
 import json
 
@@ -62,4 +61,3 @@ with open('books.json', 'r') as file:
 
 for book in books_data['books']:
     print(book['title'])
-```
