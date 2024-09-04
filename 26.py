@@ -1,4 +1,4 @@
-```python
+
 ASSIGNMENT : PYTHON 
 
 # Exercise 1: Create a List
@@ -89,4 +89,4 @@ print(unique_numbers)
 words = "hello, world, python, programming".split(", ")
 joined_words = " ".join(words)
 print(joined_words)
-```
+
