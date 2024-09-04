@@ -1,4 +1,4 @@
-```python
+
  ASSIGNMENT
 # 1: Create a Dictionary
 person = {"Name": "Alice", "Age": 25, "City": "New York"}
@@ -75,4 +75,4 @@ sentence = "the quick brown fox jumps over the lazy dog the fox"
 words = sentence.split()
 word_count = {word: words.count(word) for word in words}
 print(word_count)
-```
+
