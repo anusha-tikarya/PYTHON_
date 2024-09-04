@@ -1,4 +1,5 @@
 # HomeWork Exercise
+
 import pandas as pd
 
 # ### **Exercise 1: Creating DataFrame from Scratch**
