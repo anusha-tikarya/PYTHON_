@@ -1,4 +1,3 @@
-
 ### Exercise 1: List Operations
 numbers = [1, 2, 3, 4, 5]
 numbers.append(6)
@@ -87,7 +86,6 @@ print("Elements only in set1:", only_in_set1)
 person = ("Alice", 25, "Paris")
 name, age, city = person
 print(name, age, city)
-
 
 ### Exercise 13: Frequency Counter with Dictionary
 
